@@ -82,6 +82,4 @@ Upon a successful capture pass, two files will initialize inside your working pa
 ## License & Ethos
 
 Built completely using open standards. Support open-source digital forensic framework engineering (FOSS).
-
-```
  
